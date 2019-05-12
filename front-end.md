@@ -4,6 +4,10 @@ Minha lista de links descolados de front-end!
 ![Mestre Yoda](img/yoda.jpg)
 
 
+### Conversar com desenvolvedores oficiais
+
+https://gitter.im
+
 ## HTML5 RESOURCES
 [Brackets Text Editor](http://brackets.io/)
 
