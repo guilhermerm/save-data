@@ -204,3 +204,75 @@ Minha lista de links descolados de front-end!
 [Learning to learn to code](https://code.likeagirl.io/beginners-guide-to-programming-15c06bfc2d72) 
 
 [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) 
+
+
+### Design:
+[amarelocriativo](www.amarelocriativo.com.br) 
+
+[designerd](www.designerd.com.br) 
+
+[designcultureo](www.designculture.com.br) 
+
+[sala7design](www.sala7design.com.br)
+
+[amarelocriativo](www.amarelocriativo.com.br) 
+
+[zupi](www.zupi.co)
+
+[assuntoscriativos](www.assuntoscriativos.com.br)
+
+[designersbrasileiros](www.designersbrasileiros.com.br)
+
+[clubedesign](www.clube.design)
+
+[designontherocks](www.designontherocks.blog.br)
+
+[pixilart](www.pixilart.com)
+
+[nathanfriend](www.nathanfriend.io/inspirograph)
+
+[designspiration](www.designspiration.net)
+
+[awwwards](www.awwwards.com)
+
+[chocoladesign](www.medium.com/chocoladesign)
+
+[abduzeedo](www.abduzeedo.com)
+
+[des1gnon](www.des1gnon.com)
+
+
+### Design & Padrões
+[bgpatterns](www.bgpatterns.com)
+
+[patterntap](www.zurb.com/patterntap)
+
+[patterncooler](www.patterncooler.com)
+
+[colourlovers](www.colourlovers.com)
+
+[flickr](www.flickr.com)
+
+[chiefofdesign](www.chiefofdesign.com.br)
+
+[bonstutoriais](www.bonstutoriais.com.br)
+
+ 
+### Ícones:
+
+[flaticon](www.flaticon.com)
+
+[iconfinder](www.iconfinder.com)
+
+### Web Design:
+
+[codepen](www.codepen.io)
+
+### Tipografia:
+
+[whatfontis](www.whatfontis.com)
+
+[wordmark](www.wordmark.it)
+
+[dafont](www.dafont.com)
+
